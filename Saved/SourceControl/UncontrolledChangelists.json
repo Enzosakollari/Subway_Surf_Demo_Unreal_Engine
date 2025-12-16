@@ -11,6 +11,19 @@
 				"C:/Users/3rd/Desktop/projects/VisualScript/SubwaySurf/Content/ThirdPerson/Blueprints/BP_Basetile.uasset",
 				"C:/Users/3rd/Desktop/projects/VisualScript/SubwaySurf/Content/ThirdPerson/Blueprints/Materials/Road_Mat.uasset",
 				"C:/Users/3rd/Desktop/projects/VisualScript/SubwaySurf/Content/ThirdPerson/Blueprints/Materials/Line_Mat.uasset",
+				"C:/Users/3rd/Desktop/projects/VisualScript/SubwaySurf/Content/ThirdPerson/Maps/ThirdPersonMap.umap",
+				"C:/Users/3rd/Desktop/projects/VisualScript/SubwaySurf/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/DE/SWSI13675DVYIZ0N4NF7Y3.uasset",
+				"C:/Users/3rd/Desktop/projects/VisualScript/SubwaySurf/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/M7/OKN8IHKCXU1E6FEKVZZIZK.uasset",
+				"C:/Program Files/Epic Games/UE_5.5/Engine/Content/BasicShapes/Plane.uasset",
+				"C:/Users/3rd/Desktop/projects/VisualScript/SubwaySurf/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/PN/2QISIGK5DJNQ05US8O8FXW.uasset",
+				"C:/Users/3rd/Desktop/projects/VisualScript/SubwaySurf/Content/ThirdPerson/Input/Actions/IA_Move.uasset",
+				"C:/Users/3rd/Desktop/projects/VisualScript/SubwaySurf/Content/ThirdPerson/Input/Actions/IA_Look.uasset",
+				"C:/Users/3rd/Desktop/projects/VisualScript/SubwaySurf/Content/ThirdPerson/Character/ABP_Ganfaul.uasset",
+				"C:/Users/3rd/Desktop/projects/VisualScript/SubwaySurf/Content/ThirdPerson/Character/Animations/MM_Jump.uasset",
+				"C:/Users/3rd/Desktop/projects/VisualScript/SubwaySurf/Content/ThirdPerson/Character/Animations/BS_MM_WalkRun.uasset",
+				"C:/Users/3rd/Desktop/projects/VisualScript/SubwaySurf/Content/ThirdPerson/Input/Actions/IA_Left.uasset",
+				"C:/Users/3rd/Desktop/projects/VisualScript/SubwaySurf/Content/ThirdPerson/Input/Actions/IA_Right.uasset",
+				"C:/Users/3rd/Desktop/projects/VisualScript/SubwaySurf/Content/ThirdPerson/Input/IMC_Default.uasset",
 				"C:/Users/3rd/Desktop/projects/VisualScript/SubwaySurf/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/8O/GK06JAEJ82TQ0GA2QB0DJG.uasset",
 				"C:/Users/3rd/Desktop/projects/VisualScript/SubwaySurf/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/3V/NMHOKL5LGQDOAAG00FUMZR.uasset",
 				"C:/Users/3rd/Desktop/projects/VisualScript/SubwaySurf/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/0G/JNKFA4X9LRMSF343ESPF6Q.uasset",
@@ -45,11 +58,7 @@
 				"C:/Users/3rd/Desktop/projects/VisualScript/SubwaySurf/Content/__ExternalObjects__/ThirdPerson/Maps/ThirdPersonMap/C/7N/FDH7Y28CQFXDK8P6MM1HXM.uasset",
 				"C:/Users/3rd/Desktop/projects/VisualScript/SubwaySurf/Content/__ExternalObjects__/ThirdPerson/Maps/ThirdPersonMap/9/KN/KHZG97SS6AL73U7AXDWH6J.uasset",
 				"C:/Users/3rd/Desktop/projects/VisualScript/SubwaySurf/Content/__ExternalObjects__/ThirdPerson/Maps/ThirdPersonMap/6/TK/PIQ0B2FNWR15P52TECP27A.uasset",
-				"C:/Users/3rd/Desktop/projects/VisualScript/SubwaySurf/Content/__ExternalObjects__/ThirdPerson/Maps/ThirdPersonMap/6/D8/3MZ6M1DB94VN44C87D65WR.uasset",
-				"C:/Users/3rd/Desktop/projects/VisualScript/SubwaySurf/Content/ThirdPerson/Maps/ThirdPersonMap.umap",
-				"C:/Users/3rd/Desktop/projects/VisualScript/SubwaySurf/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/DE/SWSI13675DVYIZ0N4NF7Y3.uasset",
-				"C:/Users/3rd/Desktop/projects/VisualScript/SubwaySurf/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/M7/OKN8IHKCXU1E6FEKVZZIZK.uasset",
-				"C:/Program Files/Epic Games/UE_5.5/Engine/Content/BasicShapes/Plane.uasset"
+				"C:/Users/3rd/Desktop/projects/VisualScript/SubwaySurf/Content/__ExternalObjects__/ThirdPerson/Maps/ThirdPersonMap/6/D8/3MZ6M1DB94VN44C87D65WR.uasset"
 			]
 		}
 	]
